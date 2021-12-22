@@ -1,0 +1,11 @@
+﻿Field,Cultivar,PlantingDate,FertilizerApplied,SoilType
+Field1,Miranda,15-04-19,120,type1
+Field2,Miranda,15-04-19,150,type1
+Field3,Miranda,20-04-19,90,type1
+Field4,Bintje,09-04-20,100,type2
+Field5,Bintje,09-04-20,120,type2
+Field6,Felsina,17-04-21,110,type3
+Field7,Felsina,18-04-21,135,type3
+Field8,Felsina,19-04-21,130,type3
+Field9,Felsina,29-04-21,145,type3
+Field10,Fontane,02-04-21,110,type4
